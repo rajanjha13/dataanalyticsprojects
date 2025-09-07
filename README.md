@@ -4,7 +4,9 @@
 
 # 🚀 My Data Analytics Journey
 
-### <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/animations/wave.gif" width="30px" height="30px" alt="Waving Hand"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0077B5&center=true&vCenter=true&width=435&lines=Welcome+to+my+Data+Analytics+Portfolio!+;I+turn+data+into+insights.;+Let's+build+something+great.">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/animations/wave.gif" width="30px" height="30px" alt="Waving Hand"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0077B5&center=true&vCenter=true&width=435&lines=Welcome+to+my+Data+Analytics+Portfolio!+;I+turn+data+into+insights.;+Let's+build+something+great.">
+</p>
 
 This repository is a dynamic showcase of hands-on projects I've developed during my comprehensive learning journey with **PW Skills**.
 
@@ -33,9 +35,9 @@ Here are some of the key technologies and tools I've utilized across these proje
 
 Explore some of my featured projects. Each project folder contains detailed explanations, code, and insights.
 
-| Project Name                    | Status  | Key Skills Demonstrated                                    | View Project |
-| :------------------------------ | :------: | :--------------------------------------------------------- | :----------: |
-| **Netflix Content Insights** 🎬 | Complete | Data Cleaning, EDA, Visualization (Power BI/Python)        | [Explore](https://github.com/rajanjha13/Netflixcontentinsights) |
+| Project Name                    | Status    | Key Skills Demonstrated                                        | View Project |
+| :------------------------------ | :-------: | :------------------------------------------------------------- | :----------: |
+| **Netflix Content Insights** 🎬 | Complete  | Data Cleaning, EDA, Visualization (Power BI/Python)            | [Explore](https://github.com/rajanjha13/Netflixcontentinsights) |
 
 ---
 
