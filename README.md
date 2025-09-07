@@ -52,10 +52,10 @@ It's my personal mantra: **Learn. Practice. Showcase.**
 I believe in the power of community. Whether you're a new learner or a seasoned pro, let's connect.
 
 \<p align="center"\>
-  \<a href="YOUR\_LINKEDIN\_URL"\>
+  \<a href="[https://www.linkedin.com/in/rajanjha13/](https://www.linkedin.com/in/rajanjha13/)"\>
     \<img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn Profile"\>
   \</a\>
-  \<a href="YOUR\_INSTAGRAM\_URL"\>
+  \<a href="[https://www.instagram.com/rajanjha\_18/](https://www.instagram.com/rajanjha_18/)"\>
     \<img src="[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)" alt="Instagram Profile"\>
   \</a\>
 \</p\>
@@ -64,4 +64,4 @@ I believe in the power of community. Whether you're a new learner or a seasoned 
 
 > ⭐️ **Star** this repo if you're on a similar coding journey\!
 >
-> — [Your Name]
+> — Rajan Jha
